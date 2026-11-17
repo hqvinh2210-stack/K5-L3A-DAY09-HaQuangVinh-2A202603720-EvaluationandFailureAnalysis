@@ -1,0 +1,2 @@
+# Eval reports reference the byte hashes of these generated fixtures.
+src/data/eval/eval_set_v*.jsonl -text
